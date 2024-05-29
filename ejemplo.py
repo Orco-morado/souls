@@ -1,0 +1,1 @@
+armas_souls = ['alabarda','espada rota','estoque','garrote','garrote reforsado','']
